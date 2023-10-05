@@ -2,7 +2,7 @@
 
 ## Préambule
 
-Pour la réalisation de ce TP, vous utiliserez Cloud Shell et GitHub comme pour les sessions de cours précédentes.
+Pour la réalisation de ce TP, vous utiliserez Cloud Shell et GitHub comme pour les sessions de cours précédentes.  
 
 ## 1. Forker / Copier le repo sur votre compte GitHub
 
